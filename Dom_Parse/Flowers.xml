@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cicekler>
+	<cicek no="1">
+		<tur>gül</tur>
+		<renk>sarı</renk>
+		<fiyat>10 ytl</fiyat>
+	</cicek>
+	<cicek no="2">
+		<tur>papatya</tur>
+		<renk>beyaz</renk>
+		<fiyat>15 ytl</fiyat>
+	</cicek>
+	<cicek no="3">
+		<tur>menekşe</tur>
+		<renk>mor</renk>
+		<fiyat>20 tl</fiyat>
+	</cicek>
+	<cicek no="4">
+		<tur>lale</tur>
+		<renk>sarı</renk>
+		<fiyat>18 tl</fiyat>
+	</cicek>
+	<cicek no="5">
+		<tur>kasımpatı</tur>
+		<renk>beyaz</renk>
+		<fiyat>8 tl</fiyat>
+	</cicek>
+	
+</cicekler>
